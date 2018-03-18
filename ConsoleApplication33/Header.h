@@ -1,0 +1,15 @@
+void fillArray(int *mas, int lenght);
+void printArray(int *mas, int lenght);
+void SameElementsInArrays(int *mas1, int lenght, int *mas2);
+void fillArray1(int *mas, int lenght);
+void fillArrayIncludes3ElementsAndPrint(int *mas, int lenght2);
+void printArrayIncludes7Elements(int *mas3, int lenght3);
+void AntiSameElementsInArrays(int *mas1, int lenght, int *mas2);
+void In_A_but_not_in_B(int *mas1, int lenght, int *mas2, int *mas3);
+void In_B_but_not_in_A(int *mas1, int lenght, int *mas2, int *mas3);
+void Parity(int *T);
+void SimpleNumber(int *number);
+void AbsoluteNumber(int *interval);
+void MaxElementInArray(int *mas, int lenght);
+void SummaElementovArray(int *mas1, int *mas2, int *mas3);
+void HappyTicket(int *number);
